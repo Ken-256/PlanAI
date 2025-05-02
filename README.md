@@ -9,11 +9,6 @@ PlanAI is a Flutter mobile application that acts as a smart AI-powered personal 
   - AI suggests optimal daily schedule
   - Dynamic re-optimization when tasks change
 
-- **Energy Level-Aware Planning**
-  - Daily energy level tracking
-  - Task prioritization based on energy levels
-  - Smart task distribution throughout the day
-
 - **Task Management**
   - Create and manage tasks
   - Set task priorities
@@ -23,7 +18,6 @@ PlanAI is a Flutter mobile application that acts as a smart AI-powered personal 
 
 - **Frontend**: Flutter (iOS and Android)
 - **Backend**: Supabase (Authentication & Database)
-- **AI Integration**: OpenAI GPT-4 Turbo
 
 ## Getting Started
 
@@ -38,7 +32,7 @@ PlanAI is a Flutter mobile application that acts as a smart AI-powered personal 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/planai.git
+   git clone https://github.com/Ken-256/PlanAI.git
    cd planai
    ```
 
@@ -52,7 +46,6 @@ PlanAI is a Flutter mobile application that acts as a smart AI-powered personal 
    ```
    SUPABASE_URL=your_supabase_url
    SUPABASE_ANON_KEY=your_supabase_anon_key
-   OPENAI_API_KEY=your_openai_api_key
    ```
 
 4. Run the app:
